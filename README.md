@@ -6,6 +6,11 @@ An automated Git commit scripting utility that renders custom pixel art and typo
 
 GitHub calculates user contribution graphs by aggregating commit timestamps matching the primary author email address across the 52-week annual calendar grid (7 rows representing days of the week, Sunday through Saturday). This utility automates the generation of backdated git commits mapped directly from a 2D JSON pixel grid, allowing developers to draw custom banners, logos, and typographic patterns.
 
+
+## Execution Preview
+
+[![Execution Preview Status](https://img.shields.io/badge/Pattern_Preview-Documentation_in_Progress-2563eb?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ANTARTICA1/ContributionGraphHack)
+
 ## Technical Mechanics
 
 ### 1. Matrix Coordinate System
